@@ -1,6 +1,6 @@
 {
   "name": "01-projeto-ignite",
-  "homepage": "https://gustavodemate.github.io/ToDo-List/",
+  "homepage": "ToDo-List/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
