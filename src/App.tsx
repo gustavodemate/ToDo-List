@@ -55,7 +55,8 @@ function App() {
         </section>
       )}
       {tasks.map(task =>{
-        return <Tasks 
+        return <Tasks
+          key={task.id} 
           contender = {task}
           onDeleteTask={deleteTask}
           onComplete={handleCheckTask}/> 
