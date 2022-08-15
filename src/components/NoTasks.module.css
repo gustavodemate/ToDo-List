@@ -1,0 +1,38 @@
+
+.content{
+    max-width: 46.5rem;
+    font-size: 1rem;
+    align-items: center;
+    color: var(--gray-300);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-top: 1px solid var(--gray-400);
+    width: 100%;
+    left: calc(50% - 46rem/2);
+    position: relative;
+    
+    
+}
+
+.content img{
+    width: 100%;
+    width: 3.5rem;
+    height: 3.5rem;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    align-items: center;
+    margin-bottom: 1rem ;
+    margin-top: 4rem;
+    
+    
+    
+}
+
+.content > p, strong{   
+    line-height: 1.4rem;
+    font-size: 1rem;
+    align-items: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;    
+}
+
