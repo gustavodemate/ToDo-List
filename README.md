@@ -3,9 +3,6 @@ Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do
 
 🛠️ Nesse projeto foi utilizado
 Vite  
-
 CSS Modules  
-
 Typescript  
-
 Local Storage
